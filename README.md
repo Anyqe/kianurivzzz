@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I'm a Full-Stack Developer, teacher and tech manager with expertise in:
+I'm a Frontend Developer and teacher with expertise in:
 - 🔭 Building secure and scalable web applications
 - 🌱 Currently running my own web studio
 - 💼 Open for collaboration on interesting projects
