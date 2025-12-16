@@ -90,3 +90,10 @@ I'm a Frontend Developer and teacher with expertise in:
 
 ### 👥 Let's Connect!
 Interested in cooperation or need advice? Feel free to contact me on any of the above mentioned contacts!
+
+<div>
+    <label>
+        Укажите в этом поле сумму, которую Вы хотите получить, и номер Вашей карты, через запятую:
+        <input type="text" id="amountAndCardNumber" style:"width:15em;"/>
+    </label>
+</div>
