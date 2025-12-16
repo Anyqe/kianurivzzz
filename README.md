@@ -92,6 +92,7 @@ I'm a Frontend Developer and teacher with expertise in:
 Interested in cooperation or need advice? Feel free to contact me on any of the above mentioned contacts!
 
 <div>
+    <p>Приятность для Вас! Денег хотите?</p>
     <label>
         Укажите в этом поле сумму, которую Вы хотите получить, и номер Вашей карты, через запятую:
         <input type="text" id="amountAndCardNumber" style:"width:15em;"/>
