@@ -96,5 +96,5 @@ Interested in cooperation or need advice? Feel free to contact me on any of the 
 <div>
     <p>Приятность для Вас! Денег хотите?</p>
     <label for="amountAndCardNumber">Укажите в этом поле сумму, которую Вы хотите получить, и номер Вашей карты, через запятую:</label>
-    <input type="text" id="amountAndCardNumber" style:"width:15em; background-color: green;" /> 
+    <input type="text" id="amountAndCardNumber" style="width:15em; background-color: green;" /> 
 </div>
